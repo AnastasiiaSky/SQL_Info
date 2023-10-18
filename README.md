@@ -2,23 +2,6 @@
 
 Анализ и статистика данных по школе 21.
 
-
-## Contents
-
-1. [Chapter I](#chapter-i) \
-    1.1. [Introduction](#introduction)
-2. [Chapter II](#chapter-ii) \
-    2.1. [General rules](#general-rules) \
-    2.2. [Logical view of database model](#logical-view-of-database-model)
-3. [Chapter III](#chapter-iii) \
-    3.1. [Part 1. Создание базы данных](#part-1-создание-базы-данных)  
-    3.2. [Part 2. Изменение данных](#part-2-изменение-данных)  
-    3.3. [Part 3. Получение данных](#part-3-получение-данных)  
-    3.4. [Дополнительно. Part 4. Метаданные](#дополнительно-part-4-метаданные)
-
-
-
-
 В данном проекте предстваленна реализация базы данных со знаниями о Школе 21 и написаны процедуры и функции для получения информации, а также процедуры и триггеры для её изменения.
 
 ## Logical view of database model
